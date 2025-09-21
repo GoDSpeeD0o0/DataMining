@@ -1,2 +1,0 @@
-# DataMining
-Assignments and Projects
